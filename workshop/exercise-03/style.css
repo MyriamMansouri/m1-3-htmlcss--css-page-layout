@@ -1,0 +1,18 @@
+body
+{
+    margin:0;
+    padding:0;
+    font-family: 'Poppins', sans-serif;
+    color:white
+}
+
+main {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url(imgs/bg.jpg)  ;
+    background-size: cover;
+    background-position: center;
+    text-shadow: 2px 2px 3px black;
+}
