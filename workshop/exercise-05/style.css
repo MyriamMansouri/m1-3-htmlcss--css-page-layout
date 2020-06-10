@@ -1,0 +1,13 @@
+body {
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+}
+
+img {
+    width:calc(100% / 3);
+    outline: red 1px solid;
+}
+.container {
+    display: flex;
+    flex-flow: row wrap;
+}
